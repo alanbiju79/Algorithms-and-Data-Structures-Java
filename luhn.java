@@ -1,3 +1,5 @@
+//Luhn's algorithm for checking the validity of credit card numbers
+
 import java.util.Scanner;
 
 public class luhn{
